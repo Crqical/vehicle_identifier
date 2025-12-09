@@ -7,9 +7,9 @@ from flask import (
 
 # --- PATHS ---
 
-PICTURES_DIR = r"C:\Users\IIcee\Desktop\picture"
-MASTER_JSON = r"C:\Users\IIcee\car_counter\pictures.json"
-LABELS_DIR = r"C:\Users\IIcee\car_counter\labels"
+PICTURES_DIR = "picture"
+MASTER_JSON = "pictures.json"
+LABELS_DIR = "labels"
 
 os.makedirs(LABELS_DIR, exist_ok=True)
 
@@ -285,5 +285,5 @@ def image(description, filename):
 
 
 if __name__ == "__main__":
-    # Open http://127.0.0.1:5000 in your browser
-    app.run(debug=True)
+    # Bind to 0.0.0.0 for Replit compatibility
+    app.run(host="0.0.0.0", port=5000, debug=True)
