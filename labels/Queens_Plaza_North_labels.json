@@ -508,5 +508,315 @@
     "description_total": 51,
     "error": "NO",
     "car_amount": 6
+  },
+  {
+    "index": 258,
+    "filename": "Queens_Plaza_North_52.png",
+    "date": "2025-12-08",
+    "time": "13-48-36",
+    "description": "Queens_Plaza_North",
+    "description_total": 52,
+    "error": "NO",
+    "car_amount": 6
+  },
+  {
+    "index": 263,
+    "filename": "Queens_Plaza_North_53.png",
+    "date": "2025-12-08",
+    "time": "13-49-36",
+    "description": "Queens_Plaza_North",
+    "description_total": 53,
+    "error": "NO",
+    "car_amount": 4
+  },
+  {
+    "index": 268,
+    "filename": "Queens_Plaza_North_54.png",
+    "date": "2025-12-08",
+    "time": "13-50-36",
+    "description": "Queens_Plaza_North",
+    "description_total": 54,
+    "error": "NO",
+    "car_amount": 4
+  },
+  {
+    "index": 273,
+    "filename": "Queens_Plaza_North_55.png",
+    "date": "2025-12-08",
+    "time": "13-51-37",
+    "description": "Queens_Plaza_North",
+    "description_total": 55,
+    "error": "NO",
+    "car_amount": 3
+  },
+  {
+    "index": 278,
+    "filename": "Queens_Plaza_North_56.png",
+    "date": "2025-12-08",
+    "time": "13-52-37",
+    "description": "Queens_Plaza_North",
+    "description_total": 56,
+    "error": "NO",
+    "car_amount": 1
+  },
+  {
+    "index": 283,
+    "filename": "Queens_Plaza_North_57.png",
+    "date": "2025-12-08",
+    "time": "13-53-37",
+    "description": "Queens_Plaza_North",
+    "description_total": 57,
+    "error": "NO",
+    "car_amount": 3
+  },
+  {
+    "index": 288,
+    "filename": "Queens_Plaza_North_58.png",
+    "date": "2025-12-08",
+    "time": "13-54-37",
+    "description": "Queens_Plaza_North",
+    "description_total": 58,
+    "error": "NO",
+    "car_amount": 1
+  },
+  {
+    "index": 293,
+    "filename": "Queens_Plaza_North_59.png",
+    "date": "2025-12-08",
+    "time": "13-55-37",
+    "description": "Queens_Plaza_North",
+    "description_total": 59,
+    "error": "NO",
+    "car_amount": 2
+  },
+  {
+    "index": 298,
+    "filename": "Queens_Plaza_North_60.png",
+    "date": "2025-12-08",
+    "time": "13-56-37",
+    "description": "Queens_Plaza_North",
+    "description_total": 60,
+    "error": "YES",
+    "car_amount": null
+  },
+  {
+    "index": 303,
+    "filename": "Queens_Plaza_North_61.png",
+    "date": "2025-12-08",
+    "time": "13-57-37",
+    "description": "Queens_Plaza_North",
+    "description_total": 61,
+    "error": "NO",
+    "car_amount": 3
+  },
+  {
+    "index": 308,
+    "filename": "Queens_Plaza_North_62.png",
+    "date": "2025-12-08",
+    "time": "13-58-37",
+    "description": "Queens_Plaza_North",
+    "description_total": 62,
+    "error": "NO",
+    "car_amount": 2
+  },
+  {
+    "index": 313,
+    "filename": "Queens_Plaza_North_63.png",
+    "date": "2025-12-08",
+    "time": "13-59-37",
+    "description": "Queens_Plaza_North",
+    "description_total": 63,
+    "error": "NO",
+    "car_amount": 4
+  },
+  {
+    "index": 318,
+    "filename": "Queens_Plaza_North_64.png",
+    "date": "2025-12-08",
+    "time": "14-00-38",
+    "description": "Queens_Plaza_North",
+    "description_total": 64,
+    "error": "NO",
+    "car_amount": 2
+  },
+  {
+    "index": 323,
+    "filename": "Queens_Plaza_North_65.png",
+    "date": "2025-12-08",
+    "time": "14-01-38",
+    "description": "Queens_Plaza_North",
+    "description_total": 65,
+    "error": "NO",
+    "car_amount": 2
+  },
+  {
+    "index": 328,
+    "filename": "Queens_Plaza_North_66.png",
+    "date": "2025-12-08",
+    "time": "14-02-38",
+    "description": "Queens_Plaza_North",
+    "description_total": 66,
+    "error": "NO",
+    "car_amount": 0
+  },
+  {
+    "index": 333,
+    "filename": "Queens_Plaza_North_67.png",
+    "date": "2025-12-08",
+    "time": "14-03-38",
+    "description": "Queens_Plaza_North",
+    "description_total": 67,
+    "error": "NO",
+    "car_amount": 2
+  },
+  {
+    "index": 338,
+    "filename": "Queens_Plaza_North_68.png",
+    "date": "2025-12-08",
+    "time": "14-04-38",
+    "description": "Queens_Plaza_North",
+    "description_total": 68,
+    "error": "NO",
+    "car_amount": 0
+  },
+  {
+    "index": 343,
+    "filename": "Queens_Plaza_North_69.png",
+    "date": "2025-12-08",
+    "time": "14-05-38",
+    "description": "Queens_Plaza_North",
+    "description_total": 69,
+    "error": "NO",
+    "car_amount": 2
+  },
+  {
+    "index": 348,
+    "filename": "Queens_Plaza_North_70.png",
+    "date": "2025-12-08",
+    "time": "14-06-38",
+    "description": "Queens_Plaza_North",
+    "description_total": 70,
+    "error": "NO",
+    "car_amount": 1
+  },
+  {
+    "index": 353,
+    "filename": "Queens_Plaza_North_71.png",
+    "date": "2025-12-08",
+    "time": "14-07-38",
+    "description": "Queens_Plaza_North",
+    "description_total": 71,
+    "error": "NO",
+    "car_amount": 4
+  },
+  {
+    "index": 358,
+    "filename": "Queens_Plaza_North_72.png",
+    "date": "2025-12-08",
+    "time": "14-08-39",
+    "description": "Queens_Plaza_North",
+    "description_total": 72,
+    "error": "NO",
+    "car_amount": 1
+  },
+  {
+    "index": 363,
+    "filename": "Queens_Plaza_North_73.png",
+    "date": "2025-12-08",
+    "time": "14-09-39",
+    "description": "Queens_Plaza_North",
+    "description_total": 73,
+    "error": "NO",
+    "car_amount": 3
+  },
+  {
+    "index": 368,
+    "filename": "Queens_Plaza_North_74.png",
+    "date": "2025-12-08",
+    "time": "14-10-39",
+    "description": "Queens_Plaza_North",
+    "description_total": 74,
+    "error": "NO",
+    "car_amount": 1
+  },
+  {
+    "index": 373,
+    "filename": "Queens_Plaza_North_75.png",
+    "date": "2025-12-08",
+    "time": "14-11-39",
+    "description": "Queens_Plaza_North",
+    "description_total": 75,
+    "error": "NO",
+    "car_amount": 1
+  },
+  {
+    "index": 378,
+    "filename": "Queens_Plaza_North_76.png",
+    "date": "2025-12-08",
+    "time": "14-12-39",
+    "description": "Queens_Plaza_North",
+    "description_total": 76,
+    "error": "NO",
+    "car_amount": 1
+  },
+  {
+    "index": 383,
+    "filename": "Queens_Plaza_North_77.png",
+    "date": "2025-12-08",
+    "time": "14-13-39",
+    "description": "Queens_Plaza_North",
+    "description_total": 77,
+    "error": "NO",
+    "car_amount": 2
+  },
+  {
+    "index": 388,
+    "filename": "Queens_Plaza_North_78.png",
+    "date": "2025-12-08",
+    "time": "14-14-39",
+    "description": "Queens_Plaza_North",
+    "description_total": 78,
+    "error": "NO",
+    "car_amount": 0
+  },
+  {
+    "index": 393,
+    "filename": "Queens_Plaza_North_79.png",
+    "date": "2025-12-08",
+    "time": "14-15-39",
+    "description": "Queens_Plaza_North",
+    "description_total": 79,
+    "error": "NO",
+    "car_amount": 1
+  },
+  {
+    "index": 398,
+    "filename": "Queens_Plaza_North_80.png",
+    "date": "2025-12-08",
+    "time": "14-16-40",
+    "description": "Queens_Plaza_North",
+    "description_total": 80,
+    "error": "NO",
+    "car_amount": 1
+  },
+  {
+    "index": 403,
+    "filename": "Queens_Plaza_North_81.png",
+    "date": "2025-12-08",
+    "time": "14-17-40",
+    "description": "Queens_Plaza_North",
+    "description_total": 81,
+    "error": "NO",
+    "car_amount": 5
+  },
+  {
+    "index": 408,
+    "filename": "Queens_Plaza_North_82.png",
+    "date": "2025-12-08",
+    "time": "14-18-40",
+    "description": "Queens_Plaza_North",
+    "description_total": 82,
+    "error": "NO",
+    "car_amount": 0
   }
 ]

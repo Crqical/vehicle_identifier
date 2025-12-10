@@ -338,5 +338,495 @@
     "description_total": 33,
     "error": "NO",
     "car_amount": 4
+  },
+  {
+    "index": 170,
+    "filename": "S_Conduit_Ave_150_34.png",
+    "date": "2025-12-08",
+    "time": "13-30-34",
+    "description": "S_Conduit_Ave_150",
+    "description_total": 34,
+    "error": "NO",
+    "car_amount": 8
+  },
+  {
+    "index": 175,
+    "filename": "S_Conduit_Ave_150_35.png",
+    "date": "2025-12-08",
+    "time": "13-31-34",
+    "description": "S_Conduit_Ave_150",
+    "description_total": 35,
+    "error": "NO",
+    "car_amount": 5
+  },
+  {
+    "index": 180,
+    "filename": "S_Conduit_Ave_150_36.png",
+    "date": "2025-12-08",
+    "time": "13-32-34",
+    "description": "S_Conduit_Ave_150",
+    "description_total": 36,
+    "error": "NO",
+    "car_amount": 7
+  },
+  {
+    "index": 185,
+    "filename": "S_Conduit_Ave_150_37.png",
+    "date": "2025-12-08",
+    "time": "13-33-34",
+    "description": "S_Conduit_Ave_150",
+    "description_total": 37,
+    "error": "NO",
+    "car_amount": 5
+  },
+  {
+    "index": 190,
+    "filename": "S_Conduit_Ave_150_38.png",
+    "date": "2025-12-08",
+    "time": "13-34-34",
+    "description": "S_Conduit_Ave_150",
+    "description_total": 38,
+    "error": "NO",
+    "car_amount": 7
+  },
+  {
+    "index": 195,
+    "filename": "S_Conduit_Ave_150_39.png",
+    "date": "2025-12-08",
+    "time": "13-35-35",
+    "description": "S_Conduit_Ave_150",
+    "description_total": 39,
+    "error": "NO",
+    "car_amount": 3
+  },
+  {
+    "index": 200,
+    "filename": "S_Conduit_Ave_150_40.png",
+    "date": "2025-12-08",
+    "time": "13-36-35",
+    "description": "S_Conduit_Ave_150",
+    "description_total": 40,
+    "error": "NO",
+    "car_amount": 3
+  },
+  {
+    "index": 205,
+    "filename": "S_Conduit_Ave_150_41.png",
+    "date": "2025-12-08",
+    "time": "13-37-35",
+    "description": "S_Conduit_Ave_150",
+    "description_total": 41,
+    "error": "YES",
+    "car_amount": null
+  },
+  {
+    "index": 210,
+    "filename": "S_Conduit_Ave_150_42.png",
+    "date": "2025-12-08",
+    "time": "13-38-35",
+    "description": "S_Conduit_Ave_150",
+    "description_total": 42,
+    "error": "NO",
+    "car_amount": 4
+  },
+  {
+    "index": 215,
+    "filename": "S_Conduit_Ave_150_43.png",
+    "date": "2025-12-08",
+    "time": "13-39-35",
+    "description": "S_Conduit_Ave_150",
+    "description_total": 43,
+    "error": "NO",
+    "car_amount": 4
+  },
+  {
+    "index": 220,
+    "filename": "S_Conduit_Ave_150_44.png",
+    "date": "2025-12-08",
+    "time": "13-40-35",
+    "description": "S_Conduit_Ave_150",
+    "description_total": 44,
+    "error": "NO",
+    "car_amount": 8
+  },
+  {
+    "index": 225,
+    "filename": "S_Conduit_Ave_150_45.png",
+    "date": "2025-12-08",
+    "time": "13-41-35",
+    "description": "S_Conduit_Ave_150",
+    "description_total": 45,
+    "error": "NO",
+    "car_amount": 1
+  },
+  {
+    "index": 230,
+    "filename": "S_Conduit_Ave_150_46.png",
+    "date": "2025-12-08",
+    "time": "13-42-35",
+    "description": "S_Conduit_Ave_150",
+    "description_total": 46,
+    "error": "NO",
+    "car_amount": 3
+  },
+  {
+    "index": 235,
+    "filename": "S_Conduit_Ave_150_47.png",
+    "date": "2025-12-08",
+    "time": "13-43-36",
+    "description": "S_Conduit_Ave_150",
+    "description_total": 47,
+    "error": "NO",
+    "car_amount": 0
+  },
+  {
+    "index": 240,
+    "filename": "S_Conduit_Ave_150_48.png",
+    "date": "2025-12-08",
+    "time": "13-44-36",
+    "description": "S_Conduit_Ave_150",
+    "description_total": 48,
+    "error": "NO",
+    "car_amount": 1
+  },
+  {
+    "index": 245,
+    "filename": "S_Conduit_Ave_150_49.png",
+    "date": "2025-12-08",
+    "time": "13-45-36",
+    "description": "S_Conduit_Ave_150",
+    "description_total": 49,
+    "error": "NO",
+    "car_amount": 0
+  },
+  {
+    "index": 250,
+    "filename": "S_Conduit_Ave_150_50.png",
+    "date": "2025-12-08",
+    "time": "13-46-36",
+    "description": "S_Conduit_Ave_150",
+    "description_total": 50,
+    "error": "YES",
+    "car_amount": null
+  },
+  {
+    "index": 255,
+    "filename": "S_Conduit_Ave_150_51.png",
+    "date": "2025-12-08",
+    "time": "13-47-36",
+    "description": "S_Conduit_Ave_150",
+    "description_total": 51,
+    "error": "NO",
+    "car_amount": 0
+  },
+  {
+    "index": 260,
+    "filename": "S_Conduit_Ave_150_52.png",
+    "date": "2025-12-08",
+    "time": "13-48-36",
+    "description": "S_Conduit_Ave_150",
+    "description_total": 52,
+    "error": "NO",
+    "car_amount": 2
+  },
+  {
+    "index": 265,
+    "filename": "S_Conduit_Ave_150_53.png",
+    "date": "2025-12-08",
+    "time": "13-49-36",
+    "description": "S_Conduit_Ave_150",
+    "description_total": 53,
+    "error": "NO",
+    "car_amount": 0
+  },
+  {
+    "index": 270,
+    "filename": "S_Conduit_Ave_150_54.png",
+    "date": "2025-12-08",
+    "time": "13-50-36",
+    "description": "S_Conduit_Ave_150",
+    "description_total": 54,
+    "error": "NO",
+    "car_amount": 4
+  },
+  {
+    "index": 275,
+    "filename": "S_Conduit_Ave_150_55.png",
+    "date": "2025-12-08",
+    "time": "13-51-37",
+    "description": "S_Conduit_Ave_150",
+    "description_total": 55,
+    "error": "NO",
+    "car_amount": 3
+  },
+  {
+    "index": 280,
+    "filename": "S_Conduit_Ave_150_56.png",
+    "date": "2025-12-08",
+    "time": "13-52-37",
+    "description": "S_Conduit_Ave_150",
+    "description_total": 56,
+    "error": "NO",
+    "car_amount": 4
+  },
+  {
+    "index": 285,
+    "filename": "S_Conduit_Ave_150_57.png",
+    "date": "2025-12-08",
+    "time": "13-53-37",
+    "description": "S_Conduit_Ave_150",
+    "description_total": 57,
+    "error": "NO",
+    "car_amount": 2
+  },
+  {
+    "index": 290,
+    "filename": "S_Conduit_Ave_150_58.png",
+    "date": "2025-12-08",
+    "time": "13-54-37",
+    "description": "S_Conduit_Ave_150",
+    "description_total": 58,
+    "error": "NO",
+    "car_amount": 5
+  },
+  {
+    "index": 295,
+    "filename": "S_Conduit_Ave_150_59.png",
+    "date": "2025-12-08",
+    "time": "13-55-37",
+    "description": "S_Conduit_Ave_150",
+    "description_total": 59,
+    "error": "NO",
+    "car_amount": 5
+  },
+  {
+    "index": 300,
+    "filename": "S_Conduit_Ave_150_60.png",
+    "date": "2025-12-08",
+    "time": "13-56-37",
+    "description": "S_Conduit_Ave_150",
+    "description_total": 60,
+    "error": "NO",
+    "car_amount": 5
+  },
+  {
+    "index": 305,
+    "filename": "S_Conduit_Ave_150_61.png",
+    "date": "2025-12-08",
+    "time": "13-57-37",
+    "description": "S_Conduit_Ave_150",
+    "description_total": 61,
+    "error": "NO",
+    "car_amount": 4
+  },
+  {
+    "index": 310,
+    "filename": "S_Conduit_Ave_150_62.png",
+    "date": "2025-12-08",
+    "time": "13-58-37",
+    "description": "S_Conduit_Ave_150",
+    "description_total": 62,
+    "error": "NO",
+    "car_amount": 5
+  },
+  {
+    "index": 315,
+    "filename": "S_Conduit_Ave_150_63.png",
+    "date": "2025-12-08",
+    "time": "13-59-37",
+    "description": "S_Conduit_Ave_150",
+    "description_total": 63,
+    "error": "NO",
+    "car_amount": 5
+  },
+  {
+    "index": 320,
+    "filename": "S_Conduit_Ave_150_64.png",
+    "date": "2025-12-08",
+    "time": "14-00-38",
+    "description": "S_Conduit_Ave_150",
+    "description_total": 64,
+    "error": "NO",
+    "car_amount": 3
+  },
+  {
+    "index": 325,
+    "filename": "S_Conduit_Ave_150_65.png",
+    "date": "2025-12-08",
+    "time": "14-01-38",
+    "description": "S_Conduit_Ave_150",
+    "description_total": 65,
+    "error": "NO",
+    "car_amount": 3
+  },
+  {
+    "index": 330,
+    "filename": "S_Conduit_Ave_150_66.png",
+    "date": "2025-12-08",
+    "time": "14-02-38",
+    "description": "S_Conduit_Ave_150",
+    "description_total": 66,
+    "error": "NO",
+    "car_amount": 4
+  },
+  {
+    "index": 335,
+    "filename": "S_Conduit_Ave_150_67.png",
+    "date": "2025-12-08",
+    "time": "14-03-38",
+    "description": "S_Conduit_Ave_150",
+    "description_total": 67,
+    "error": "NO",
+    "car_amount": 3
+  },
+  {
+    "index": 340,
+    "filename": "S_Conduit_Ave_150_68.png",
+    "date": "2025-12-08",
+    "time": "14-04-38",
+    "description": "S_Conduit_Ave_150",
+    "description_total": 68,
+    "error": "NO",
+    "car_amount": 4
+  },
+  {
+    "index": 345,
+    "filename": "S_Conduit_Ave_150_69.png",
+    "date": "2025-12-08",
+    "time": "14-05-38",
+    "description": "S_Conduit_Ave_150",
+    "description_total": 69,
+    "error": "NO",
+    "car_amount": 4
+  },
+  {
+    "index": 350,
+    "filename": "S_Conduit_Ave_150_70.png",
+    "date": "2025-12-08",
+    "time": "14-06-38",
+    "description": "S_Conduit_Ave_150",
+    "description_total": 70,
+    "error": "NO",
+    "car_amount": 4
+  },
+  {
+    "index": 355,
+    "filename": "S_Conduit_Ave_150_71.png",
+    "date": "2025-12-08",
+    "time": "14-07-38",
+    "description": "S_Conduit_Ave_150",
+    "description_total": 71,
+    "error": "NO",
+    "car_amount": 4
+  },
+  {
+    "index": 360,
+    "filename": "S_Conduit_Ave_150_72.png",
+    "date": "2025-12-08",
+    "time": "14-08-39",
+    "description": "S_Conduit_Ave_150",
+    "description_total": 72,
+    "error": "NO",
+    "car_amount": 6
+  },
+  {
+    "index": 365,
+    "filename": "S_Conduit_Ave_150_73.png",
+    "date": "2025-12-08",
+    "time": "14-09-39",
+    "description": "S_Conduit_Ave_150",
+    "description_total": 73,
+    "error": "NO",
+    "car_amount": 2
+  },
+  {
+    "index": 370,
+    "filename": "S_Conduit_Ave_150_74.png",
+    "date": "2025-12-08",
+    "time": "14-10-39",
+    "description": "S_Conduit_Ave_150",
+    "description_total": 74,
+    "error": "NO",
+    "car_amount": 3
+  },
+  {
+    "index": 375,
+    "filename": "S_Conduit_Ave_150_75.png",
+    "date": "2025-12-08",
+    "time": "14-11-39",
+    "description": "S_Conduit_Ave_150",
+    "description_total": 75,
+    "error": "NO",
+    "car_amount": 4
+  },
+  {
+    "index": 380,
+    "filename": "S_Conduit_Ave_150_76.png",
+    "date": "2025-12-08",
+    "time": "14-12-39",
+    "description": "S_Conduit_Ave_150",
+    "description_total": 76,
+    "error": "NO",
+    "car_amount": 4
+  },
+  {
+    "index": 385,
+    "filename": "S_Conduit_Ave_150_77.png",
+    "date": "2025-12-08",
+    "time": "14-13-39",
+    "description": "S_Conduit_Ave_150",
+    "description_total": 77,
+    "error": "NO",
+    "car_amount": 3
+  },
+  {
+    "index": 390,
+    "filename": "S_Conduit_Ave_150_78.png",
+    "date": "2025-12-08",
+    "time": "14-14-39",
+    "description": "S_Conduit_Ave_150",
+    "description_total": 78,
+    "error": "NO",
+    "car_amount": 3
+  },
+  {
+    "index": 395,
+    "filename": "S_Conduit_Ave_150_79.png",
+    "date": "2025-12-08",
+    "time": "14-15-39",
+    "description": "S_Conduit_Ave_150",
+    "description_total": 79,
+    "error": "NO",
+    "car_amount": 4
+  },
+  {
+    "index": 400,
+    "filename": "S_Conduit_Ave_150_80.png",
+    "date": "2025-12-08",
+    "time": "14-16-40",
+    "description": "S_Conduit_Ave_150",
+    "description_total": 80,
+    "error": "NO",
+    "car_amount": 4
+  },
+  {
+    "index": 405,
+    "filename": "S_Conduit_Ave_150_81.png",
+    "date": "2025-12-08",
+    "time": "14-17-40",
+    "description": "S_Conduit_Ave_150",
+    "description_total": 81,
+    "error": "NO",
+    "car_amount": 3
+  },
+  {
+    "index": 410,
+    "filename": "S_Conduit_Ave_150_82.png",
+    "date": "2025-12-08",
+    "time": "14-18-40",
+    "description": "S_Conduit_Ave_150",
+    "description_total": 82,
+    "error": "NO",
+    "car_amount": 4
   }
 ]
