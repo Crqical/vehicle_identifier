@@ -8,7 +8,8 @@ Machine Learning model using a CNN that counts the number of cars in a traffic c
 - `desk_capture.py` - Desktop screenshot capture script to gather the pictures from the New York Department of Transportation  
 - `pictures.json` - Metadata file containing information about all captured images  
 - `picture/` - Directory containing traffic camera images organized by camera location  
-- `labels/` - Directory where labeling data is stored as JSON files  
+- `labels/` - Directory where labeling data is stored as JSON files
+- `install.ipynb` - IPYNB File used to install the necessary dependencies to run machine_model_training
 - `machine_model_training.ipynb` - Main Jupyter notebook (renamed from `main2.ipynb`) used to train and evaluate the CNN model  
 - `models/` - Directory where trained PyTorch model checkpoints are saved (e.g., `car_count_resnet18.pth`)  
 
