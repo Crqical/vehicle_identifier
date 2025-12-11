@@ -32,7 +32,7 @@ Machine Learning model using a CNN that counts the number of cars in a traffic c
 
 - **Step 1 – Prepare files**  
   Place your `picture/` folder (with subfolders like `2nd_Ave_49_st`, `Queens_Midtown_Tunnel`, etc.) and your `labels/` folder (with files like `2nd_Ave_49_st_labels.json`) in the project root.  
-  Rename `main2.ipynb` to `machine_model_training.ipynb` and keep it in the project root.
+
 
 - **Step 3 – Install dependencies**  
   Make sure Python 3.11 is installed.  
